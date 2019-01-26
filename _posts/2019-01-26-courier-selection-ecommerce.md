@@ -17,6 +17,8 @@ image:
   feature: ''
 category: paragraph
 author: ''
+link: ''
+share: false
 
 ---
 E commerce  companies ship their products to customers via multiple courier  partners. Most of them have an automated courier selection process for  shipping. At IB one of the major challenges we faced was the increasing  logistics cost. Hence we developed a system to automatically recommend  the courier to be selected for each package that was shipped from our  warehouses and by our sellers spread across India. It is essential for  every company who rely on multiple courier service to optimise their  logistics cost. Through this article I would like to give a brief  overview of a simple courier selection system. This system need not be a  web app, this could be even run on a excel based system and hence even  small companies can take the advantage of this approach.
@@ -59,13 +61,6 @@ b. Volumetric weight = “ L_b_h / volumetric factor ( each LSP has a different 
 
 Various Products types falls under the following category
 
-* Normal
-* Liquids
-* Paints
-* Dangerous goods
-* Fragile
-* Gases
-
 5\.  Number of Boxes — This is applicable in case of multi part shipment  where a single product is shipped in multiple packages. Here a single  AWB will have multiple boxes. Not all the LSPs support multi part  shipments
 
 #### 2. Freight Cost
@@ -96,22 +91,7 @@ Here we can take the type 3 case for freight calculation since type 1 & 2 charts
 
 The rate chart and the zone matrix is used to calculate the base freight. There will be other charges contributing to the freight based on the contract. Below is a list of such charges.
 
-* COD charges - max (min COD charge, % of invoice value)
-* AWB charge — Flat amount
-* Fuel Surcharge — % of invoice value
-* Freight on Value(FOV)- % of invoice
-* Risk on Value(ROV)- % of invoice
-* Additional charges- % of invoice
-* Chargeable weight — Max(Min chargeable weight , Max (physical wt, Volumetric wt))
-* Base freight = If (chargeable weight ≤ max(weight slab))  
-   { Rate(rate group,weight slab)   
-  Else   
-   { Rate(rate group, max(weight slab))+(Roundup((chargeable weight- max(weight slab))/additional slab),* charges per additional slab }
-
 Note : Rate group is derived from the zone matrix. E.g.Suppose a case where ‘from pincode’ belongs to zone west and ‘ to pincode’ belongs to East and the packages chargeable weight is 3kg. Thus the rate group applicable will be ‘A’ as per fig.4 and referring to the fig.3, the base cost will be 80.
-
-* CAF value= (Base freight+ COD charges+ AWB charges + Fuel surcharge+FOV+ROV+Additional Charges)* CAF(%)/100
-* Service tax=(Base freight+ COD charges+ AWB charges + Fuel surcharge+FOV+ROV+Additional Charges + CAF)*18/100
 
 **Total freight** = Base freight+ COD charges+ AWB charges + Fuel surcharge+FOV+ROV+Additional Charges + CAF+ service tax .
 

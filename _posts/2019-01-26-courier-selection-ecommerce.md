@@ -71,15 +71,12 @@ Every LSP shares a Rate chart according to the contract signed.
 
 Below are some sample Rate charts.
 
-![](https://cdn-images-1.medium.com/max/1600/1*nyKTzLtFJmWdmtHrWiCztA.png)Fig. 1 Rate Chart type 1
+Fig. 1 Rate Chart type   
+Fig.2 Rate Chart Type 2
 
-![](https://cdn-images-1.medium.com/max/1600/1*34sEcRbb0KJWg-_bX7JwBQ.png)Fig.2 Rate Chart Type 2
+FedEx, Bluedart etc. have Type 1 rate chart. Delhivery has type 2 rate chart. Some other couriers such as Safexpress has a 3rd type of rate chart as Fig.3 Rate Chart type 3
 
-FedEx, Bluedart etc. have Type 1 rate chart. Delhivery has type 2 rate chart. Some other couriers such as Safexpress has a 3rd type of rate chart as below
-
-![](https://cdn-images-1.medium.com/max/1600/1*zehqqR0zRi6rI51F-5AHsw.png)Fig.3 Rate Chart type 3
-
-![](https://cdn-images-1.medium.com/max/1600/1*qtg3UZ2rpIcaOfLrKq5WNQ.png)Fig.4 Zone Matrix
+Fig.4 Zone Matrix
 
 Rate Charts- LSPs prepare rate charts by laying out the flat rates applicable on the kg slabs against the Rate group. Refer to fig.3
 

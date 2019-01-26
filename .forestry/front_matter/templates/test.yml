@@ -38,8 +38,5 @@ fields:
   type: datetime
   hidden: false
   default: ''
-- type: text
-  name: author
-  label: Author
 pages:
 - _posts/courier-selection-ecommerce.md

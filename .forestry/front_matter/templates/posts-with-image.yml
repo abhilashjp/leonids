@@ -16,3 +16,5 @@ fields:
 - type: number
   name: number
   label: number
+pages:
+- _posts/courier-selection-ecommerce-companies.md

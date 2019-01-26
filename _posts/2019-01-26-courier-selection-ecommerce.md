@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Courier selection engine for E commerce companies
+title: Courier selection engine for E-commerce companies
 excerpt: E commerce  companies ship their products to customers via multiple courier  partners.
   Most of them have an automated courier selection process for  shipping
 modified: 2019-01-25 18:30:00 +0000
@@ -15,10 +15,9 @@ comments: true
 pinned: true
 image:
   feature: ''
+category: paragraph
 
 ---
-# Courier selection engine for E commerce companies
-
 E commerce  companies ship their products to customers via multiple courier  partners. Most of them have an automated courier selection process for  shipping. At IB one of the major challenges we faced was the increasing  logistics cost. Hence we developed a system to automatically recommend  the courier to be selected for each package that was shipped from our  warehouses and by our sellers spread across India. It is essential for  every company who rely on multiple courier service to optimise their  logistics cost. Through this article I would like to give a brief  overview of a simple courier selection system. This system need not be a  web app, this could be even run on a excel based system and hence even  small companies can take the advantage of this approach.
 
 #### **Master Data**

@@ -39,3 +39,5 @@ fields:
   hidden: false
   default: ''
 - type: text
+pages:
+- _posts/courier-selection-ecommerce.md

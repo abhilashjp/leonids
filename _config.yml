@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Abhilash
+title: Abhilash John Philip
 email:
 description: Product Manager.
 url: # the base hostname & protocol for your site
@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  name: Abhilash John Philip
+  avatar: Abhilash.jpg
+  job: "Product Manager"
+  bio: "Product Management Professional. Currently working with Housing.com"
   email:
   disqus-shortname:
   twitter: #username

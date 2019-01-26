@@ -1,0 +1,18 @@
+---
+label: posts with image
+hide_body: false
+is_partial: false
+fields:
+- type: textarea
+- type: file
+  name: image
+  label: image
+- type: textarea
+  name: text_area
+  label: text area
+- type: text
+  name: title
+  label: title
+- type: number
+  name: number
+  label: number

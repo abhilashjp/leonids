@@ -1,5 +1,5 @@
 ---
-label: test
+label: Default
 hide_body: false
 is_partial: false
 fields:
@@ -39,5 +39,7 @@ fields:
   hidden: false
   default: ''
 - type: text
+  name: author
+  label: Author
 pages:
 - _posts/courier-selection-ecommerce.md

@@ -14,14 +14,14 @@
 <div class="social-links">
   <ul>
     {% if author.email %}
-      <lititle="Email">
+      <li title="Email">
       <script>gen_mail_to_link('{{ author.email }}', 'Hello from website');</script>
       </li>
     {% endif %}
     {% if author.twitter %}<li><a href="http://twitter.com/{{ author.twitter }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-twitter"></i></a></li>{% endif %}
     {% if author.facebook %}<li><a href="http://facebook.com/{{ author.facebook }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-facebook"></i></a></li>{% endif %}
     {% if author.google.plus %}<li><a href="http://plus.google.com/+{{ author.google.plus }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-google-plus"></i> Google+</a></li>{% endif %}
-    {% if author.linkedin %}<lititle="Linkedin"><a href="http://linkedin.com/in/{{ author.linkedin }}" class="social-link-item" target="_blank"><i class="fab fa-linkedin"></i></a></li>{% endif %}
+    {% if author.linkedin %}<li title="Linkedin"><a href="http://linkedin.com/in/{{ author.linkedin }}" class="social-link-item" target="_blank"><i class="fab fa-linkedin"></i></a></li>{% endif %}
     {% if author.skype %}<li><a href="skype:{{ author.skype }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-skype"></i></a></li>{% endif %}
     {% if author.xing %}<li><a href="http://www.xing.com/profile/{{ author.xing }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-xing"></i></a></li>{% endif %}
     {% if author.instagram %}<li title="Instagram"><a href="http://instagram.com/{{ author.instagram }}" class="social-link-item" target="_blank"><i class="fab fa-instagram icon-5x"></i></a></li>{% endif %}

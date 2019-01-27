@@ -8,7 +8,6 @@ excerpt: Building a coupon management was the first project I did at IB. Though 
   a Coupon management system for websites
 category: product
 tags:
-- Product
 - Coupons
 - CMS
 modified: 2017-11-24 18:30:00 +0000

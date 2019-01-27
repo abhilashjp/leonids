@@ -1,17 +1,22 @@
 ---
 layout: post
-title: Sample Link Post-(copy)n
-excerpt: Try click on the link icon.
+title: Courier selection engine for E commerce companies
+excerpt: E commerce companies ship their products to customers via multiple courier
+  partners. Most of them have an automated courier selection process for shipping.
+  At IB one of the major challenges we faced was the increasing logistics cost. Hence
+  we developed a system to automatically recommend the courier to be selected for
+  each package that was shipped from our warehouses and by our sellers spread across
+  India.....
 tags:
-- sample post
-- link post
+- Ecommerce
+- Courier
+- Product
 link: http://mademistakes.com
 share: true
-category: testcat
+category: Product
+modified: 2017-11-07 18:30:00 +0000
 
 ---
-### Courier selection engine for E commerce companies
-
 E commerce companies ship their products to customers via multiple courier partners. Most of them have an automated courier selection process for shipping. At IB one of the major challenges we faced was the increasing logistics cost. Hence we developed a system to automatically recommend the courier to be selected for each package that was shipped from our warehouses and by our sellers spread across India. It is essential for every company who rely on multiple courier service to optimise their logistics cost. Through this article I would like to give a brief overview of a simple courier selection system. This system need not be a web app, this could be even run on a excel based system and hence even small companies can take the advantage of this approach.
 
 #### **Master Data**
@@ -46,7 +51,7 @@ This serviceability check is done on the following parameters
 
 a. Physical weight = “Weight of SKU”
 
-b. Volumetric weight = “ L*b*h / volumetric factor ( each LSP has a different volumetric factor. L,B,H in cm)
+b. Volumetric weight = “ L_b_h / volumetric factor ( each LSP has a different volumetric factor. L,B,H in cm)
 
 4\. If the Product Shipping Category is supported by the LSP.
 

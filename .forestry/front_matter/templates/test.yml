@@ -38,3 +38,5 @@ fields:
   type: datetime
   hidden: false
   default: ''
+pages:
+- _posts/Courier selection E commerce.md

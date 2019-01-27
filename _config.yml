@@ -43,7 +43,7 @@ owner:
   facebook: #username
   google:
     plus: #username
-    analytics:UA-85047587-1
+    analytics: UA-85047587-1
     verify:
     ad-client:
     ad-slot:
@@ -51,10 +51,10 @@ owner:
   github: #username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin:abhilashjohnphilip
+  linkedin: abhilashjohnphilip
   skype: #username
   xing: #username
-  instagram:abhilashjp
+  instagram: abhilashjp
   lastfm: #username
   tumblr: #username
   pinterest: #username
@@ -69,6 +69,6 @@ owner:
   codepen: #username
   reddit: #username
   telegram: #username
-  medium:abhilashjp
-  goodreads:abhilashjohn
-  CV:abhilashjp
+  medium: abhilashjp
+  goodreads: abhilashjohn
+  CV: abhilashjp

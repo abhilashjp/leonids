@@ -10,7 +10,6 @@ excerpt: E commerce companies ship their products to customers via multiple cour
 tags:
 - Ecommerce
 - Courier
-- Product
 share: true
 category:
 - product

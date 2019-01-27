@@ -4,9 +4,9 @@
 ####################################
 #
 title: Abhilash John Philip
-email:
+email: abhilashjohn07@gmail.com
 description: Product Manager.
-url: # the base hostname & protocol for your site
+url: http://abhilashjohn.com/ # the base hostname & protocol for your site
 keywords: ["blog", "Product Manager", "Writer", "Personal Blog"]
 
 #
@@ -14,7 +14,7 @@ keywords: ["blog", "Product Manager", "Writer", "Personal Blog"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Calcutta
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -37,7 +37,7 @@ owner:
   avatar: Abhilash.jpg
   job: "Product Manager"
   bio: "Based out of Delhi,India. Currently working with Housing.com."
-  email:
+  email: abhilashjohn07@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username

@@ -11,7 +11,7 @@ tags:
 - Coupons
 - CMS
 modified: 2017-11-24 18:30:00 +0000
-date: 2019-01-27 18:24:11 +0000
+date: 2017-11-24 18:30:00 +0000
 
 ---
 Building a coupon management was the first project I did at IB. Though I searched for a CMS to use as a reference but couldn’t find one. Eventually I conceptualised the entire system myself.

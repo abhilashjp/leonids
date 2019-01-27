@@ -12,7 +12,8 @@ tags:
 - Courier
 - Product
 share: true
-category: Product
+category:
+- product
 modified: 2017-11-07 18:30:00 +0000
 
 ---

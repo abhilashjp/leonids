@@ -7,7 +7,7 @@ title: Abhilash John Philip
 email:
 description: Product Manager.
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+keywords: ["blog", "Product Manager", "Writer", "Personal Blog"]
 
 #
 ###################################
@@ -36,14 +36,14 @@ owner:
   name: Abhilash John Philip
   avatar: Abhilash.jpg
   job: "Product Manager"
-  bio: "Product Management Professional. Currently working with Housing.com"
+  bio: "Based out of Delhi,India. Currently working with Housing.com."
   email:
   disqus-shortname:
   twitter: #username
   facebook: #username
   google:
     plus: #username
-    analytics:
+    analytics:UA-85047587-1
     verify:
     ad-client:
     ad-slot:
@@ -51,10 +51,10 @@ owner:
   github: #username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: in/abhilashjohnphilip/
+  linkedin:abhilashjohnphilip
   skype: #username
   xing: #username
-  instagram: abhilashjp
+  instagram:abhilashjp
   lastfm: #username
   tumblr: #username
   pinterest: #username
@@ -69,3 +69,6 @@ owner:
   codepen: #username
   reddit: #username
   telegram: #username
+  medium:abhilashjp
+  goodreads:abhilashjohn
+  CV:abhilashjp

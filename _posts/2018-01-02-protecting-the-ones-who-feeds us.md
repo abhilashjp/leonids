@@ -12,7 +12,7 @@ tags:
 - farmer suicides
 - agriculture
 modified: 2018-01-01 18:30:00 +0000
-date: 2019-01-27 18:31:57 +0000
+date: 2018-01-01 18:30:00 +0000
 
 ---
 Recently NITI Ayog released its ‘Three Year action agenda’ in which one of the key agenda is to double the agriculture income by 2022. Today we are witnessing a scenario of crop losses due to either elusive or excessive rainfall on the one side and on the other side farmers are committing suicide because they have excess produce and not getting fair value for their produce.

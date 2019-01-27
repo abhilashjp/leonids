@@ -11,7 +11,6 @@ tags:
 - Ecommerce
 - Courier
 - Product
-link: http://mademistakes.com
 share: true
 category: Product
 modified: 2017-11-07 18:30:00 +0000

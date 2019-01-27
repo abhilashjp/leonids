@@ -10,7 +10,7 @@ category: product
 tags:
 - product
 modified: 2018-02-22 18:30:00 +0000
-date: 2019-01-27 18:44:54 +0000
+date: 2018-02-22 18:30:00 +0000
 
 ---
 Below is the pitch deck I prepared for a recent global hackathon at our  company Proptiger. Our idea was to provide a platform to enable shared  property purchases. Though our team didn’t won any prize in the event, I  think this is worth sharing as the problem of unaffordability of real  estate properties is real and the our idea could be one of the solutions  to the problem

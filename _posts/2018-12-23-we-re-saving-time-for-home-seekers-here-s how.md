@@ -12,7 +12,7 @@ tags:
 - real estate
 - classifieds
 modified: 2018-12-22 18:30:00 +0000
-date: 2019-01-27 18:47:38 +0000
+date: 2018-12-22 18:30:00 +0000
 
 ---
 Imagine that you are moving to a new city and looking for a place for rent. What will you do? You will ideally ask for recommendations from someone you know. Maybe you will look online for those localities that are close to your office. You will probably search properties on a real estate portal and get in touch with the owner of a property you liked. Just because you liked a property doesn’t guarantee that you will get the property. You will need to convince the homeowner why you will be a better tenant. If it doesn’t work out the process restarts.

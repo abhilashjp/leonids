@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beyond hartals
-comments: false
+comments: true
 excerpt: 97! Uff just 3 short of century. This is the number of days, kerala has seen
   hartals in 2018. According to an estimate, this has taken away a staggering Rs.7200
   to state’s GDP. Not to mention the loss in investments.

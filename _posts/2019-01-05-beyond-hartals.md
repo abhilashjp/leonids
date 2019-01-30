@@ -13,8 +13,6 @@ modified: 2019-01-04 18:30:00 +0000
 date: 2019-01-04 18:30:00 +0000
 
 ---
-***
-
 **97!** Uff just 3 short of century. This is the number of days, kerala has seen hartals in 2018. According to an [estimate](https://www.business-standard.com/article/economy-policy/traders-in-kerala-have-declared-2019-the-anti-hartal-year-here-s-why-118122200168_1.html), this has taken away a staggering Rs.7200 to state’s GDP. Not to mention the loss in investments.
 
 Not just economy suffers, then there are schools and colleges who are unable to finish the curriculum and are struggling to meet the minimum number of working days required. Tourism is the most affected sector by the frequent hartals, people are stranded with no means of transport. Last year even saw hartals being conducted on Social media calls.

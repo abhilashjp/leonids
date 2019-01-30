@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Protecting the ones who feeds us
-comments: false
+comments: true
 excerpt: Recently NITI Ayog released its ‘Three Year action agenda’ in which one of
   the key agenda is to double the agriculture income by 2022. Today we are witnessing
   a scenario of crop losses due to either elusive or excessive rainfall on the one

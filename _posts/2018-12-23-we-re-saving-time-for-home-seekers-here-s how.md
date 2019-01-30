@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We’re Saving Time For Home Seekers- Here’s How!
-comments: false
+comments: true
 excerpt: 'Imagine that you are moving to a new city and looking for a place for rent.
   What will you do? You will ideally ask for recommendations from someone you know.
   Maybe you will look online for those localities that are close to your office. '

@@ -14,6 +14,7 @@ share: true
 category:
 - product
 modified: 2017-11-07 18:30:00 +0000
+comments: true
 
 ---
 E commerce companies ship their products to customers via multiple courier partners. Most of them have an automated courier selection process for shipping. At IB one of the major challenges we faced was the increasing logistics cost. Hence we developed a system to automatically recommend the courier to be selected for each package that was shipped from our warehouses and by our sellers spread across India. It is essential for every company who rely on multiple courier service to optimise their logistics cost. Through this article I would like to give a brief overview of a simple courier selection system. This system need not be a web app, this could be even run on a excel based system and hence even small companies can take the advantage of this approach.
